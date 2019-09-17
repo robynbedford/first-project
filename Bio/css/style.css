@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Monoton&display=swap');
+
+body {
+    background: linear-gradient(0deg, rgba(207,185,151,1) 0%, rgba(199,186,155,1) 53%, rgba(184,242,255,1) 100%); 
+    color:black;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1rem;
+    font-family: times;
+    line-height: 1.5;
+    }
+
+.main-heading {
+        background-color: #cfb997;
+        font-family: monoton, Arial, Helvetica, sans-serif
+    }
+
+.heading {
+    font-family:'abril fatface', helvetica, sans-serif;
+    /* If abril does not work, have back-up */
+    background-color:#b8f2ff;
+    }
+    
+.sub-heading {
+    color: black;
+    }
+
+.footer {
+        background-color:#b8f2ff;
+    }
+
+    
